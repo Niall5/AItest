@@ -1,0 +1,7 @@
+export { Banner } from './Banner.model'
+export { Contact } from './Contact.model'
+export { CV } from './CV.model'
+export { Name } from './Name.model'
+export { Profile } from './Profile.model'
+export { Security } from './Security.model'
+export { Socials } from './Socials.model'

@@ -1,0 +1,26 @@
+{
+  "name": "aitest",
+  "version": "1.0.0",
+  "description": "A test attempt to scope out the requirements for a CV to JSON conversion tool. We will use a set JSON schema",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niall5/AItest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niall5/AItest/issues"
+  },
+  "homepage": "https://github.com/Niall5/AItest#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14"
+  }
+}
